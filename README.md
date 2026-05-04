@@ -1,4 +1,21 @@
-## Hi there 👋
+
+# Hi, I'm Lior! 👋
+
+
+## 🚀 About Me
+My name is Lior Latimer and I am current MSc student at the London School of Hygiene and Tropical Medicine. 
+
+
+## 🛠 Skills
+R: tidyverse, ggplot2, shiny, caret, terra, sf 
+
+Python: pandas, numpy
+
+SQL
+
+QGIS
+
+
 
 <!--
 **lior-latimer/lior-latimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
