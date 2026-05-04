@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-My name is Lior Latimer and I am current MSc student at the London School of Hygiene and Tropical Medicine studying health data science. My interests center around using data-driven methods to electronic health record data, with the goal of developing effective clinical intervention. 
+My name is Lior Latimer and I am current MSc student at the London School of Hygiene and Tropical Medicine studying health data science. My interests center around using data-driven methods to analyze electronic health record data, with the goal of developing effective clinical intervention. 
 
 
 ## 🛠 Skills
