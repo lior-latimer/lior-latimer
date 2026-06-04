@@ -7,7 +7,7 @@ My name is Lior Latimer and I am current MSc student at the London School of Hyg
 
 
 ## 🛠 Skills
-R: tidyverse, ggplot2, shiny, caret, terra, sf 
+R: tidyverse, ggplot2, shiny, caret, terra, sf, xgboost, tempusverse 
 
 Python: pandas, numpy
 
